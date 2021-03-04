@@ -1,0 +1,1 @@
+EldeCare is a device that remotely tracks the activity of an elderly person living independently. When it detects inactive behaviour, an indicator of a sudden fall, abnormal eating or sickness, it will send a cautionary message to their respective relative/carer's phone to take the necessary steps to care and attend to their needs, promptly providing early intervention.
